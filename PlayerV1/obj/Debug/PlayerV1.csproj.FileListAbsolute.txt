@@ -1,0 +1,10 @@
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\bin\Debug\PlayerV1.exe.config
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\bin\Debug\PlayerV1.exe
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\bin\Debug\PlayerV1.pdb
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\obj\Debug\PlayerV1.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\obj\Debug\PlayerV1.Form1.resources
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\obj\Debug\PlayerV1.Properties.Resources.resources
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\obj\Debug\PlayerV1.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\obj\Debug\PlayerV1.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\obj\Debug\PlayerV1.exe
+C:\Users\josue\source\repos\PlayerV1\PlayerV1\obj\Debug\PlayerV1.pdb
